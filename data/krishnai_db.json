@@ -1,0 +1,684 @@
+{
+  "version": 1,
+  "lastUpdatedAt": "2026-09-30T04:34:34.778Z",
+  "products": [
+    {
+      "id": "prod-1",
+      "sku": "KS-PEN-001",
+      "name": "Reynolds 045 Carbure Fine Ball Pen (Pack of 10)",
+      "brand": "Reynolds",
+      "category": "pens-writing",
+      "price": 90,
+      "mrp": 120,
+      "stock": 41,
+      "lowStockThreshold": 10,
+      "rating": 4.7,
+      "reviewCount": 384,
+      "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1569683795645-b62e50fbf103?w=600&auto=format&fit=crop&q=80"
+      ],
+      "description": "The legendary precision ball pen engineered for smooth non-smudge writing. Includes 10 pens in classic royal blue ink.",
+      "features": [
+        "0.7mm laser tip for fine writing",
+        "Smudge-free waterproof German ink",
+        "Comfortable ribbed grip for exam marathons",
+        "Long shelf-life ink reservoir"
+      ],
+      "badge": "Bestseller",
+      "isAssured": true,
+      "supplier": "Reynolds Writing Instruments Ltd.",
+      "unit": "Pack of 10",
+      "updatedAt": "2026-09-27T08:47:21.536Z"
+    },
+    {
+      "id": "prod-2",
+      "sku": "KS-PEN-002",
+      "name": "Parker Vector Standard Stainless Steel Rollerball Pen",
+      "brand": "Parker",
+      "category": "pens-writing",
+      "price": 385,
+      "mrp": 450,
+      "stock": 3,
+      "lowStockThreshold": 8,
+      "rating": 4.8,
+      "reviewCount": 192,
+      "image": "https://images.unsplash.com/photo-1585336261026-77884ea84947?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1585336261026-77884ea84947?w=600&auto=format&fit=crop&q=80"
+      ],
+      "description": "Iconic Parker stainless steel body with arrow pocket clip. Delivers smooth consistent ink flow for professionals and executives.",
+      "features": [
+        "High-grade stainless steel barrel and cap",
+        "Quink rollerball refill included",
+        "Packaged in official gift presentation case",
+        "Replaceable refill system"
+      ],
+      "badge": "Krishnai Choice",
+      "isAssured": true,
+      "supplier": "Luxor Writing Products",
+      "unit": "Single Pen Box",
+      "updatedAt": "2026-09-27T08:31:56.499Z"
+    },
+    {
+      "id": "prod-3",
+      "sku": "KS-NOTE-001",
+      "name": "Classmate Pulse 6-Subject Spiral Notebook (300 Pages)",
+      "brand": "Classmate",
+      "category": "notebooks-paper",
+      "price": 185,
+      "mrp": 220,
+      "stock": 2,
+      "lowStockThreshold": 12,
+      "rating": 4.6,
+      "reviewCount": 512,
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&auto=format&fit=crop&q=80"
+      ],
+      "description": "Premium college ruled 6-subject notebook with color-coded polypropylene dividers, pen holder sleeve, and perforated tear-out sheets.",
+      "features": [
+        "Chlorine-free ozone-treated bright paper",
+        "Sturdy twin wire spiral binding",
+        "Removable tabbed subject index dividers",
+        "Inside pocket for loose sheets"
+      ],
+      "badge": "Bestseller",
+      "isAssured": true,
+      "supplier": "ITC Paperboards Division",
+      "unit": "1 Book (300 Pgs)",
+      "updatedAt": "2026-09-27T08:31:56.499Z"
+    },
+    {
+      "id": "prod-4",
+      "sku": "KS-NOTE-002",
+      "name": "JK Copier A4 Size Copier Paper 75 GSM (500 Sheets Ream)",
+      "brand": "JK Paper",
+      "category": "notebooks-paper",
+      "price": 330,
+      "mrp": 390,
+      "stock": 20,
+      "lowStockThreshold": 15,
+      "rating": 4.9,
+      "reviewCount": 840,
+      "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&auto=format&fit=crop&q=80"
+      ],
+      "description": "ColorLok technology ensures vivid colors and bolder blacks for laser, inkjet, and photocopiers. Jam-free guaranteed paper.",
+      "features": [
+        "Universal office and school printing paper",
+        "High opacity for double-sided smudge-free printing",
+        "Eco-friendly sustainable plantation pulp",
+        "Standard 500 sheets moisture-proof pack"
+      ],
+      "badge": "Deal of the Day",
+      "isAssured": true,
+      "supplier": "JK Paper Mills Ltd.",
+      "unit": "1 Ream (500 Sheets)",
+      "updatedAt": "2026-09-27T08:32:01.465Z"
+    },
+    {
+      "id": "prod-5",
+      "sku": "KS-ART-001",
+      "name": "Faber-Castell 24 Tri-Color Pencil Set with Sharpener",
+      "brand": "Faber-Castell",
+      "category": "art-craft",
+      "price": 210,
+      "mrp": 250,
+      "stock": 28,
+      "lowStockThreshold": 8,
+      "rating": 4.7,
+      "reviewCount": 220,
+      "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&auto=format&fit=crop&q=80"
+      ],
+      "description": "Ergonomic triangular shape for tireless coloring. Break-resistant bonded lead provides rich color laydown for art students.",
+      "features": [
+        "24 vibrant non-toxic shades",
+        "Soft lead for smooth blending and shading",
+        "Triangular barrel prevents roll-off",
+        "Child-safe certified pigments"
+      ],
+      "badge": "Krishnai Assured",
+      "isAssured": true,
+      "supplier": "Faber-Castell India Pvt Ltd",
+      "unit": "Pack of 24",
+      "updatedAt": "2026-09-27T08:31:56.499Z"
+    },
+    {
+      "id": "prod-6",
+      "sku": "KS-ART-002",
+      "name": "Camlin Artist Acrylic Color Set (12 Shades x 20ml Tubes)",
+      "brand": "Camlin",
+      "category": "art-craft",
+      "price": 460,
+      "mrp": 520,
+      "stock": 5,
+      "lowStockThreshold": 8,
+      "rating": 4.8,
+      "reviewCount": 310,
+      "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=600&auto=format&fit=crop&q=80"
+      ],
+      "description": "Fast-drying artist grade acrylics suitable on canvas, wood, terracotta, and paper. Retains brush strokes and intense color brilliance.",
+      "features": [
+        "12 rich intermixable shades",
+        "Gloss finish and water-resistant once dry",
+        "Flexible film prevents cracking over time",
+        "Ideal for professional and student art projects"
+      ],
+      "badge": "Krishnai Choice",
+      "isAssured": true,
+      "supplier": "Kokuyo Camlin Ltd.",
+      "unit": "12 Tubes Pack",
+      "updatedAt": "2026-09-27T08:31:56.499Z"
+    },
+    {
+      "id": "prod-7",
+      "sku": "KS-SCH-001",
+      "name": "Camlin Nova Mathematical Drawing Geometry Box",
+      "brand": "Camlin",
+      "category": "school-essentials",
+      "price": 140,
+      "mrp": 175,
+      "stock": 1,
+      "lowStockThreshold": 10,
+      "rating": 4.6,
+      "reviewCount": 420,
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1588072432836-e10032774350?w=600&auto=format&fit=crop&q=80"
+      ],
+      "description": "Rust-free self-centering compass and divider instruments designed for high precision geometry drawings in CBSE and ICSE board exams.",
+      "features": [
+        "Die-cast zinc alloy self-centering compass",
+        "Transparent scratch-resistant ruler and set squares",
+        "Includes mini mechanical pencil and stencil",
+        "Shock-resistant metal tin case"
+      ],
+      "badge": "Bestseller",
+      "isAssured": true,
+      "supplier": "Kokuyo Camlin Ltd.",
+      "unit": "1 Geometry Tin",
+      "updatedAt": "2026-09-27T08:31:56.499Z"
+    },
+    {
+      "id": "prod-8",
+      "sku": "KS-CALC-001",
+      "name": "Casio FX-991CW ClassWiz Non-Programmable Scientific Calculator",
+      "brand": "Casio",
+      "category": "calculators-geometry",
+      "price": 1545,
+      "mrp": 1695,
+      "stock": 14,
+      "lowStockThreshold": 4,
+      "rating": 4.9,
+      "reviewCount": 950,
+      "image": "https://images.unsplash.com/photo-1594980596870-8aa52a78d8cd?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1594980596870-8aa52a78d8cd?w=600&auto=format&fit=crop&q=80"
+      ],
+      "description": "Latest high-resolution 4-gradation display scientific calculator with 540+ mathematical functions. Approved for engineering and polytechnic examinations.",
+      "features": [
+        "Natural Textbook Display (MathIO)",
+        "Numerical integration and differentiation",
+        "Matrix, vector, equation, and polynomial solvers",
+        "Dual power: Solar panel + Battery backup"
+      ],
+      "badge": "Bestseller",
+      "isAssured": true,
+      "supplier": "Casio India Co. Pvt. Ltd.",
+      "unit": "Box Piece",
+      "updatedAt": "2026-09-27T08:31:56.499Z"
+    },
+    {
+      "id": "prod-9",
+      "sku": "KS-OFF-001",
+      "name": "Kangaro 24/6 Heavy Duty Desk Stapler with 2000 Staples",
+      "brand": "Kangaro",
+      "category": "office-desk",
+      "price": 165,
+      "mrp": 195,
+      "stock": 19,
+      "lowStockThreshold": 6,
+      "rating": 4.8,
+      "reviewCount": 260,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80"
+      ],
+      "description": "Full metal construction stapler with quick-load mechanism. Capable of binding up to 30 sheets of paper cleanly.",
+      "features": [
+        "All steel chassis with plastic casing top",
+        "Rotating anvil for permanent and temporary pinning",
+        "Visual staple reload indicator",
+        "Includes 2 boxes of Kangaro 24/6 staples"
+      ],
+      "badge": "Krishnai Choice",
+      "isAssured": true,
+      "supplier": "Kangaro Industries Ltd.",
+      "unit": "Stapler + 2 Boxes",
+      "updatedAt": "2026-09-27T08:31:56.499Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-ramesh",
+      "name": "Ramesh K. (Store Manager)",
+      "email": "manager@krishnaistationery.in",
+      "phone": "+91 98230 45678",
+      "role": "manager",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=120&auto=format&fit=crop&q=80",
+      "rewardPoints": 1250,
+      "addresses": [
+        {
+          "id": "addr-store-1",
+          "fullName": "Krishnai Stationery Store Outlet #1",
+          "phone": "+91 98230 45678",
+          "street": "Shop No. 4, Opposite Wadia College, Bund Garden Road",
+          "area": "Sangamvadi",
+          "city": "Pune",
+          "pincode": "411001",
+          "state": "Maharashtra",
+          "type": "Office",
+          "isDefault": true
+        }
+      ],
+      "password": "admin123",
+      "adminPin": "4567"
+    },
+    {
+      "id": "usr-ananya",
+      "name": "Ananya Sharma (Student)",
+      "email": "ananya.s@gmail.com",
+      "phone": "+91 98765 43210",
+      "role": "customer",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=120&auto=format&fit=crop&q=80",
+      "rewardPoints": 340,
+      "addresses": [
+        {
+          "id": "addr-ananya-1",
+          "fullName": "Ananya Sharma",
+          "phone": "+91 98765 43210",
+          "street": "Hostel Block B, Room 204, Fergusson College Campus",
+          "area": "Shivajinagar",
+          "city": "Pune",
+          "pincode": "411004",
+          "state": "Maharashtra",
+          "type": "College / Hostel",
+          "isDefault": true
+        }
+      ],
+      "password": "customer123"
+    },
+    {
+      "id": "usr-vikram",
+      "name": "Vikram Joshi (Architect)",
+      "email": "vikram.design@gmail.com",
+      "phone": "+91 94220 11223",
+      "role": "customer",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&auto=format&fit=crop&q=80",
+      "rewardPoints": 580,
+      "addresses": [
+        {
+          "id": "addr-vikram-1",
+          "fullName": "Vikram Joshi",
+          "phone": "+91 94220 11223",
+          "street": "A-402, Rohan Tarang, Near Wakad Bridge",
+          "area": "Wakad",
+          "city": "Pune",
+          "pincode": "411057",
+          "state": "Maharashtra",
+          "type": "Home",
+          "isDefault": true
+        }
+      ],
+      "password": "customer123"
+    },
+    {
+      "id": "usr-pooja",
+      "name": "Pooja Deshmukh (Cashier & Staff)",
+      "email": "staff@krishnaistationery.in",
+      "phone": "+91 98221 99887",
+      "role": "staff",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&auto=format&fit=crop&q=80",
+      "rewardPoints": 450,
+      "password": "staff123",
+      "adminPin": "1234",
+      "addresses": [
+        {
+          "id": "addr-store-2",
+          "fullName": "Krishnai Stationery Counter #2",
+          "phone": "+91 98221 99887",
+          "street": "Sadashiv Peth Main Branch",
+          "area": "Sadashiv Peth",
+          "city": "Pune",
+          "pincode": "411030",
+          "state": "Maharashtra",
+          "type": "Office",
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "id": "usr-1790742874778",
+      "name": "Sneha Kulkarni",
+      "email": "sneha.k@gmail.com",
+      "phone": "+91 99220 88776",
+      "role": "customer",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&auto=format&fit=crop&q=80",
+      "rewardPoints": 100,
+      "password": "password123",
+      "addresses": [
+        {
+          "id": "addr-1790742874778",
+          "fullName": "Sneha Kulkarni",
+          "phone": "+91 99220 88776",
+          "street": "Paud Road",
+          "area": "Kothrud",
+          "city": "Pune",
+          "pincode": "411030",
+          "state": "Maharashtra",
+          "type": "Home",
+          "isDefault": true
+        }
+      ]
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alt-1790497921465",
+      "productId": "prod-4",
+      "productName": "JK Copier A4 Size Copier Paper 75 GSM (500 Sheets Ream)",
+      "productImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&auto=format&fit=crop&q=80",
+      "type": "restocked",
+      "message": "RESTOCKED: +20 units added to JK Copier A4 Size Copier Paper 75 GSM (500 Sheets Ream). Current stock is now 20 units!",
+      "currentStock": 20,
+      "threshold": 15,
+      "timestamp": "2026-09-27T08:32:01.465Z",
+      "read": false
+    },
+    {
+      "id": "alt-1",
+      "productId": "prod-4",
+      "productName": "JK Copier A4 Size Copier Paper 75 GSM (500 Sheets Ream)",
+      "productImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&auto=format&fit=crop&q=80",
+      "type": "out_of_stock",
+      "message": "CRITICAL ALERT: JK Copier A4 Paper is completely OUT OF STOCK (0 reams). High customer demand detected!",
+      "currentStock": 0,
+      "threshold": 15,
+      "timestamp": "2026-09-27T08:06:56.499Z",
+      "read": false
+    },
+    {
+      "id": "alt-2",
+      "productId": "prod-7",
+      "productName": "Camlin Nova Mathematical Drawing Geometry Box",
+      "productImage": "https://images.unsplash.com/photo-1588072432836-e10032774350?w=600&auto=format&fit=crop&q=80",
+      "type": "low_stock",
+      "message": "LOW STOCK WARNING: Only 1 unit remaining of Camlin Nova Geometry Box. Board exam season approaching.",
+      "currentStock": 1,
+      "threshold": 10,
+      "timestamp": "2026-09-27T07:06:56.499Z",
+      "read": false
+    },
+    {
+      "id": "alt-3",
+      "productId": "prod-3",
+      "productName": "Classmate Pulse 6-Subject Spiral Notebook (300 Pages)",
+      "productImage": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&auto=format&fit=crop&q=80",
+      "type": "low_stock",
+      "message": "LOW STOCK WARNING: Classmate 6-Subject Notebook has only 2 units left in store stock.",
+      "currentStock": 2,
+      "threshold": 12,
+      "timestamp": "2026-09-27T05:31:56.499Z",
+      "read": false
+    },
+    {
+      "id": "alt-4",
+      "productId": "prod-2",
+      "productName": "Parker Vector Standard Stainless Steel Rollerball Pen",
+      "productImage": "https://images.unsplash.com/photo-1585336261026-77884ea84947?w=600&auto=format&fit=crop&q=80",
+      "type": "low_stock",
+      "message": "STOCK NOTICE: Parker Vector Rollerball Pen is down to 3 pieces.",
+      "currentStock": 3,
+      "threshold": 8,
+      "timestamp": "2026-09-27T02:31:56.499Z",
+      "read": true
+    }
+  ],
+  "restockHistory": [
+    {
+      "id": "rst-1790497921465",
+      "productId": "prod-4",
+      "productName": "JK Copier A4 Size Copier Paper 75 GSM (500 Sheets Ream)",
+      "quantityAdded": 20,
+      "previousStock": 0,
+      "newStock": 20,
+      "supplierName": "JK Paper Mills Ltd.",
+      "costPerUnit": 220,
+      "restockedBy": "Ramesh K. (Manager)",
+      "timestamp": "2026-09-27T08:32:01.465Z",
+      "notes": "Emergency consignment received"
+    },
+    {
+      "id": "rst-1",
+      "productId": "prod-1",
+      "productName": "Reynolds 045 Carbure Fine Ball Pen (Pack of 10)",
+      "quantityAdded": 50,
+      "previousStock": 12,
+      "newStock": 62,
+      "supplierName": "Reynolds Writing Instruments Ltd.",
+      "costPerUnit": 60,
+      "restockedBy": "Ramesh K. (Manager)",
+      "timestamp": "2026-09-26T08:31:56.499Z",
+      "notes": "Bulk carton restock for start of academic term"
+    },
+    {
+      "id": "rst-2",
+      "productId": "prod-8",
+      "productName": "Casio FX-991CW ClassWiz Non-Programmable Scientific Calculator",
+      "quantityAdded": 15,
+      "previousStock": 2,
+      "newStock": 17,
+      "supplierName": "Casio India Co. Pvt. Ltd.",
+      "costPerUnit": 1250,
+      "restockedBy": "Ramesh K. (Manager)",
+      "timestamp": "2026-09-24T08:31:56.499Z",
+      "notes": "Direct authorized consignment from Casio Mumbai hub"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1790498841536",
+      "orderNumber": "KS-ORD-27637",
+      "userId": "usr-ananya",
+      "userName": "Ananya Sharma",
+      "userEmail": "ananya.s@gmail.com",
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Reynolds 045 Carbure Fine Ball Pen (Pack of 10)",
+          "price": 90,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=600&auto=format&fit=crop&q=80",
+          "brand": "Reynolds"
+        }
+      ],
+      "subtotal": 90,
+      "discount": 0,
+      "deliveryFee": 40,
+      "total": 130,
+      "shippingAddress": {
+        "id": "addr-store-1",
+        "fullName": "Krishnai Stationery Store Outlet #1",
+        "phone": "+91 98230 45678",
+        "street": "Shop No. 4, Opposite Wadia College, Bund Garden Road",
+        "area": "Sangamvadi",
+        "city": "Pune",
+        "pincode": "411001",
+        "state": "Maharashtra",
+        "type": "Office",
+        "isDefault": true
+      },
+      "paymentMethod": "upi",
+      "paymentStatus": "paid",
+      "utrNumber": "UTR841536135513",
+      "receiptNumber": "KS-REC-2026-5646",
+      "paymentTransactionId": "pay-txn-1790498841536",
+      "status": "placed",
+      "createdAt": "2026-09-27T08:47:21.536Z"
+    },
+    {
+      "id": "ord-1001",
+      "orderNumber": "KS-ORD-84920",
+      "userId": "usr-ananya",
+      "userName": "Ananya Sharma (Student)",
+      "userEmail": "ananya.s@gmail.com",
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Reynolds 045 Carbure Fine Ball Pen (Pack of 10)",
+          "price": 90,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=600&auto=format&fit=crop&q=80",
+          "brand": "Reynolds"
+        },
+        {
+          "productId": "prod-3",
+          "name": "Classmate Pulse 6-Subject Spiral Notebook (300 Pages)",
+          "price": 185,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=600&auto=format&fit=crop&q=80",
+          "brand": "Classmate"
+        }
+      ],
+      "subtotal": 365,
+      "discount": 0,
+      "deliveryFee": 40,
+      "total": 405,
+      "shippingAddress": {
+        "id": "addr-ananya-1",
+        "fullName": "Ananya Sharma",
+        "phone": "+91 98765 43210",
+        "street": "Hostel Block B, Room 204, Fergusson College Campus",
+        "area": "Shivajinagar",
+        "city": "Pune",
+        "pincode": "411004",
+        "state": "Maharashtra",
+        "type": "College / Hostel",
+        "isDefault": true
+      },
+      "paymentMethod": "upi",
+      "status": "delivered",
+      "createdAt": "2026-09-26T20:31:56.499Z"
+    }
+  ],
+  "stockAuditLogs": [
+    {
+      "productId": "prod-1",
+      "productName": "Reynolds 045 Carbure Fine Ball Pen (Pack of 10)",
+      "sku": "KS-PEN-001",
+      "type": "ORDER_SALE",
+      "delta": -1,
+      "stockBefore": 42,
+      "stockAfter": 41,
+      "user": "Ananya Sharma",
+      "notes": "Sold 1 unit(s) via checkout",
+      "id": "aud-1790498841536-vssh",
+      "timestamp": "2026-09-27T08:47:21.536Z"
+    },
+    {
+      "productId": "prod-4",
+      "productName": "JK Copier A4 Size Copier Paper 75 GSM (500 Sheets Ream)",
+      "sku": "KS-NOTE-002",
+      "type": "RESTOCK",
+      "delta": 20,
+      "stockBefore": 0,
+      "stockAfter": 20,
+      "user": "Ramesh K. (Manager)",
+      "notes": "Emergency consignment received",
+      "id": "aud-1790497921465-3o8a",
+      "timestamp": "2026-09-27T08:32:01.465Z"
+    },
+    {
+      "id": "aud-1",
+      "productId": "prod-1",
+      "productName": "Reynolds 045 Carbure Fine Ball Pen (Pack of 10)",
+      "sku": "KS-PEN-001",
+      "type": "RESTOCK",
+      "delta": 50,
+      "stockBefore": 12,
+      "stockAfter": 62,
+      "user": "Ramesh K. (Manager)",
+      "notes": "Bulk carton restock for start of academic term",
+      "timestamp": "2026-09-26T08:31:56.499Z"
+    },
+    {
+      "id": "aud-2",
+      "productId": "prod-1",
+      "productName": "Reynolds 045 Carbure Fine Ball Pen (Pack of 10)",
+      "sku": "KS-PEN-001",
+      "type": "ORDER_SALE",
+      "delta": -20,
+      "stockBefore": 62,
+      "stockAfter": 42,
+      "user": "System (Customer Orders)",
+      "notes": "Order fulfillment deductions",
+      "timestamp": "2026-09-26T22:31:56.499Z"
+    },
+    {
+      "id": "aud-3",
+      "productId": "prod-4",
+      "productName": "JK Copier A4 Size Copier Paper 75 GSM (500 Sheets Ream)",
+      "sku": "KS-NOTE-002",
+      "type": "ORDER_SALE",
+      "delta": -15,
+      "stockBefore": 15,
+      "stockAfter": 0,
+      "user": "System (Order #KS-ORD-7210)",
+      "notes": "Stock depleted to zero",
+      "timestamp": "2026-09-27T08:06:56.499Z"
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay-txn-1790498841536",
+      "orderId": "ord-1790498841536",
+      "orderNumber": "KS-ORD-27637",
+      "sessionId": "pay_sess_1790498837797_jjo17",
+      "amount": 130,
+      "method": "upi",
+      "status": "completed",
+      "customerName": "Ananya Sharma",
+      "customerEmail": "ananya.s@gmail.com",
+      "customerPhone": "+91 98230 45678",
+      "utrNumber": "UTR841536135513",
+      "upiVpa": "ananya@okhdfcbank",
+      "receiptNumber": "KS-REC-2026-5646",
+      "timestamp": "2026-09-27T08:47:21.537Z",
+      "notes": "1-to-1 Real-time verified UPI payment for Krishnai Stationery"
+    },
+    {
+      "id": "pay-txn-84920",
+      "orderId": "ord-1001",
+      "orderNumber": "KS-ORD-84920",
+      "sessionId": "sess-84920",
+      "amount": 405,
+      "method": "upi",
+      "status": "completed",
+      "customerName": "Ananya Sharma (Student)",
+      "customerEmail": "ananya.s@gmail.com",
+      "customerPhone": "+91 98765 43210",
+      "utrNumber": "UTR492817293810",
+      "upiVpa": "ananya.sharma@okaxis",
+      "receiptNumber": "KS-REC-2026-0042",
+      "timestamp": "2026-09-26T20:47:09.745Z",
+      "notes": "Paid via Google Pay 1-to-1 UPI to Krishnai Stationery Sadashiv Peth"
+    }
+  ]
+}

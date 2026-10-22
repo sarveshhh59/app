@@ -1,0 +1,6 @@
+{
+  "name": "Krishnai Stationery",
+  "description": "Full-stack stationery shop with Amazon-style store experience, real-time inventory alerts, restock management, user accounts, and installable mobile app support for Android and iOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
